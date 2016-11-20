@@ -1,0 +1,22 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\MyScript\InputProcess.cs">
+    <Files>
+      <File FileName="Assets\MyScript\InputProcess.cs" Line="56" Column="51" />
+      <File FileName="Assets\MyScript\deadzone.cs" Line="1" Column="1" />
+      <File FileName="Assets\MyScript\CameraNavi.cs" Line="21" Column="37" />
+      <File FileName="Assets\MyScript\NextLevel.cs" Line="1" Column="1" />
+      <File FileName="Assets\NGUI\Scripts\UI\UIRoot.cs" Line="1" Column="1" />
+      <File FileName="Assets\Intro_UI\SCRIPT\new_move_1.cs" Line="1" Column="1" />
+      <File FileName="Assets\MyScript\CameraAnimation.cs" Line="1" Column="1" />
+      <File FileName="Assets\MyScript\ifRotate.cs" Line="1" Column="1" />
+      <File FileName="Assets\MyScript\Warp.cs" Line="1" Column="1" />
+      <File FileName="Assets\MyScript\Controll2D.cs" Line="85" Column="7" />
+      <File FileName="c:\Users\HI\Desktop\LostMine_160813\LastOne3\Assets\NGUI\Scripts\Editor\NGUIEditorTools.cs" Line="1039" Column="59" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

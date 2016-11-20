@@ -1,0 +1,58 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\TutoEvent.cs">
+    <Files>
+      <File FileName="Assets\Script\TutoEvent.cs" Line="79" Column="1" />
+      <File FileName="Assets\UI\Autofade.cs" Line="1" Column="1" />
+      <File FileName="Assets\UI\LoadLevel.cs" Line="1" Column="1" />
+      <File FileName="Assets\MyScript\NextLevel.cs" Line="1" Column="1" />
+      <File FileName="Assets\UI\FadeInOut.cs" Line="1" Column="1" />
+      <File FileName="Assets\NGUI\Scripts\UI\UICamera.cs" Line="1" Column="1" />
+      <File FileName="Assets\NGUI\Scripts\UI\UIRoot.cs" Line="1" Column="1" />
+      <File FileName="Assets\NGUI\Scripts\Interaction\UIButton.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\MainEvent.cs" Line="1" Column="1" />
+      <File FileName="Assets\UIsprite.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\IntroUIScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Stage2Event.cs" Line="1" Column="1" />
+      <File FileName="Assets\MyScript\InputProcessStage3.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ClearUIScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Intro_UI\SCRIPT\new_move_1.cs" Line="1" Column="1" />
+      <File FileName="Assets\MyScript\Yprojection.cs" Line="1" Column="1" />
+      <File FileName="Assets\MyScript\Dead.cs" Line="1" Column="1" />
+      <File FileName="Assets\MyScript\sector1Teleport.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Stage2WallEnemy.cs" Line="1" Column="1" />
+      <File FileName="Assets\MyScript\Xprojection.cs" Line="1" Column="1" />
+      <File FileName="Assets\MyScript\NextStage3.cs" Line="1" Column="1" />
+      <File FileName="Assets\MyScript\Controll2D.cs" Line="1" Column="1" />
+      <File FileName="Assets\MyScript\zTeleport.cs" Line="1" Column="1" />
+      <File FileName="Assets\MyScript\Warp.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CameraStage2Script.cs" Line="1" Column="1" />
+      <File FileName="Assets\MyScript\Warp2.cs" Line="1" Column="1" />
+      <File FileName="Assets\MyScript\WarpStage3x.cs" Line="1" Column="1" />
+      <File FileName="Assets\MyScript\Controll2DStage3.cs" Line="1" Column="1" />
+      <File FileName="Assets\Intro_UI\SCRIPT\Switch_open.cs" Line="1" Column="1" />
+      <File FileName="Assets\MyScript\CameraNavi.cs" Line="1" Column="1" />
+      <File FileName="Assets\MyScript\InputProcess.cs" Line="1" Column="1" />
+      <File FileName="Assets\MyScript\CameraAnimation.cs" Line="1" Column="1" />
+      <File FileName="Assets\MyScript\NextStage2.cs" Line="1" Column="1" />
+      <File FileName="Assets\NGUI\Scripts\Interaction\UIButtonOffset.cs" Line="1" Column="1" />
+      <File FileName="Assets\NGUI\Scripts\Interaction\UIButtonSound.cs" Line="1" Column="1" />
+      <File FileName="Assets\Intro_UI\SCRIPT\Switch_intro.cs" Line="1" Column="1" />
+      <File FileName="Assets\Intro_UI\SCRIPT\NewBehaviourScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Intro_UI\SCRIPT\Stair_mv.cs" Line="1" Column="1" />
+      <File FileName="Assets\MyScript\NextStage1.cs" Line="1" Column="1" />
+      <File FileName="Assets\MyScript\DropHigh.cs" Line="1" Column="1" />
+      <File FileName="Assets\MyScript\deadzone.cs" Line="1" Column="1" />
+      <File FileName="Assets\MyScript\WarpStage3y.cs" Line="1" Column="1" />
+      <File FileName="Assets\MyScript\Zprojection.cs" Line="1" Column="1" />
+      <File FileName="Assets\MyScript\NextMainStage.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Stage2StartBarMove.cs" Line="1" Column="1" />
+      <File FileName="Assets\MyScript\ifRotate.cs" Line="1" Column="1" />
+      <File FileName="Assets\MyScript\EmptyClass.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
